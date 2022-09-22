@@ -1,10 +1,10 @@
 # Ice Cream Store Locator
 
-This is a simple POI (specifically ice cream stores, here) locator that uses the ArcGIS API for Javascript.
+This is a simple POI (specifically ice cream stores, here) locator app that uses the [ArcGIS API for Javascript](https://developers.arcgis.com/javascript/latest/).
 
 ## Required Dependencies
 
-- `@arcgis/core`. Find API Reference info [here](https://developers.arcgis.com/javascript/latest/api-reference/)
+- `@arcgis/core`. Find API Reference info [here](https://developers.arcgis.com/javascript/latest/api-reference/).
 
 
 ## Other Requirements
