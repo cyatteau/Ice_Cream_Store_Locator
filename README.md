@@ -4,7 +4,7 @@ This is a simple POI (specifically ice cream stores, here) locator app that uses
 
 ## Required Dependencies
 
-- `@arcgis/core`. Find API Reference info [here](https://developers.arcgis.com/javascript/latest/api-reference/).
+- `npm install @arcgis/core`. Find API Reference info [here](https://developers.arcgis.com/javascript/latest/api-reference/).
 
 
 ## Other Requirements
