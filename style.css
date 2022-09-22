@@ -1,0 +1,19 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#viewDiv {
+  padding: 0px;
+  margin: 10px auto;
+  height: 50%;
+  width: 40%;
+}
+
+.longlat {
+  margin-top: 30px;
+  text-align: center;
+}
